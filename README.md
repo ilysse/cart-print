@@ -27,8 +27,8 @@ Clone the Repository:
 
 bash
 Copier le code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ilysse/cart-print/
+cd cart-print
 Open the Project: Open the project in Android Studio.
 
 Modify Printer IP: Ensure the printer's IP address is correctly configured in the printInvoice() method. Update the following line with your printer's IP:
